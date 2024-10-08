@@ -23,4 +23,4 @@ The schedule below applies to Fall 2024. Please, refer to this page for any chan
     by Cole Nussbaumer Knaflic
     [Wiley](https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253/)
 
-<img src="storytelling-with-data-book-cover.jpg" alt="Book Cover" style="width: 300px; float: left; margin-right: 20px;"/>
+<img src="story-telling-with-data-book-cover.jpg" alt="Book Cover" style="width: 300px; float: left; margin-right: 20px;"/>
