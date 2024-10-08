@@ -12,11 +12,11 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |Course Overview (relevance, examples, etc.):
 |	 |&nbsp; •	Market-Ready-to-do List (MRTDL) by Career Advancement Center
 |	 |&nbsp; •	Pick a dataset:
-|	 |  &ensp; * Datasets will be provided by instructor on first day of class.
-|	 |  &ensp; * If you have already formed a team of 4 students to collaborate and work together 
-|	 |  &ensp; and want to use your own dataset, this needs to be vetted and approved by the instructor. 
-|	 |  &ensp; * Examples: something you are working on from another project,
-|	 |  &ensp; Walmart data on Kaggle, synthetic data from Synthea, etc.)
+|	 |  &emsp; * Datasets will be provided by instructor on first day of class.
+|	 |  &emsp; * If you have already formed a team of 4 students to collaborate and work together 
+|	 |  &emsp; and want to use your own dataset, this needs to be vetted and approved by the instructor. 
+|	 |  &emsp; * Examples: something you are working on from another project,
+|	 |  &emsp; Walmart data on Kaggle, synthetic data from Synthea, etc.)
 |	 |&nbsp; •	Explanation of peer-to-peer evaluation of presentations every week
 |	 |&nbsp; •	Instruction: Exploratory data analysis
 |	 |&nbsp; •	Assignment: Prepare 1-minute “describe your dataset” presentation
@@ -24,48 +24,48 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |**2** |**Start with Presentations (present what was assigned in the previous class)**
 |	 |Understand the Business (and core business processes):
 |	 |&nbsp; •	Activity (for a specific case or example business): 
-|	 |  &ensp; * Describe the business for an example business (inputs, activities, outputs/metrics). 
-|	 |  &ensp; * Develop a simple flowchart, identify opportunities
+|	 |  &emsp; * Describe the business for an example business (inputs, activities, outputs/metrics). 
+|	 |  &emsp; * Develop a simple flowchart, identify opportunities
 |	 |&nbsp; •	Instruction: Understanding the business problem, extracting the use case(s)
 |	 |&nbsp; •	Assignment (for your selected business): 
-|	 |  &ensp; * Prepare 3-minute presentation that describes the business, 
-|	 |  &ensp; core business process(es), and opportunities for your selected business
+|	 |  &emsp; * Prepare 3-minute presentation that describes the business, 
+|	 |  &emsp; core business process(es), and opportunities for your selected business
 |	 |
 |**3** |**Start with Presentations (present what was assigned in the previous class)**
 |	 |Identify a Business Problem (and why it needs to be addressed):
 |	 |&nbsp; •	Activity (for a specific case or example business problem): 
-|	 |  &ensp; * Developing persuasive arguments; Create tension with a visualization (draft)
+|	 |  &emsp; * Developing persuasive arguments; Create tension with a visualization (draft)
 |	 |&nbsp; •	Instruction: Story telling with data - visualizations
 |	 |&nbsp; •	Assignment (for your selected business problem): 
-|	 |  &ensp; * Create a 3-minute “tension” presentation; only 1 visual
+|	 |  &emsp; * Create a 3-minute “tension” presentation; only 1 visual
 |	 |
 |**4** |**Start with Presentations (present what was assigned in the previous class)**
 |  |Develop a Solution Pitch (for solving the identified business problem):
 |  |&nbsp; •	Activity (for an example business problem): 
-|	 |  &ensp; * Big idea, exec summary, peer review
+|	 |  &emsp; * Big idea, exec summary, peer review
 |  |&nbsp; •	Instruction: Feasibility study, selection of final use case (big idea)
 |  |&nbsp; •	Assignment (for your selected business problem): 
-|	 |  &ensp; * Create a 1-minute pitch (includes business overview, tension, and solution)
+|	 |  &emsp; * Create a 1-minute pitch (includes business overview, tension, and solution)
 |	 |
 |**5** |**Start with Presentations (present what was assigned in the previous class)**
 |	 |Provide a Progress Update (for an ongoing project):
 |	 |&nbsp; •	Activity (for your selected solution): 
-|	 |  &ensp; * Strong visualizations, exploration, status, revisions, issues, lessons learned
+|	 |  &emsp; * Strong visualizations, exploration, status, revisions, issues, lessons learned
 |	 |&nbsp; •	Instruction: Data exploration and feedback loops with business stakeholders 
 |	 |&nbsp; •	Assignment (for your selected solution): 
-|	 |  &ensp; * Prepare a 5-minute presentation; 5 slides (excluding title slide); 3 visualizations
+|	 |  &emsp; * Prepare a 5-minute presentation; 5 slides (excluding title slide); 3 visualizations
 |	 |
 |**6** |**Start with Presentations (present what was assigned in the previous class)**
 |	 |Planning a Final Presentation and Final Report (for a completed project):
 |	 |&nbsp; •	Activity (for your project): 
-|	 |  &ensp; * 1st draft of headlines only and main messages per slide; 
-|	 |  &ensp; * Python Notebook for technical audience and Word document for leadership: 
-|	 |  &ensp; clear connections to final presentation, 
-|	 |  &ensp; i.e., same structure/order, etc., including a narrative in the final report
+|	 |  &emsp; * 1st draft of headlines only and main messages per slide; 
+|	 |  &emsp; * Python Notebook for technical audience and Word document for leadership: 
+|	 |  &emsp; clear connections to final presentation, 
+|	 |  &emsp; i.e., same structure/order, etc., including a narrative in the final report
 |	 |&nbsp; •	Instruction: Technical writing skills
 |	 |&nbsp; •	Assignment (for your project): 
-|	 |  &ensp; * Complete final presentation and reports; 
-|	 |  &ensp; * 7-minute presentation; 5-7 slides (excluding title slide); appendix if required
+|	 |  &emsp; * Complete final presentation and reports; 
+|	 |  &emsp; * 7-minute presentation; 5-7 slides (excluding title slide); appendix if required
 |	 |
 |**7** |**Final Presentations (and final reports, notebook and Word document) are due !**
 |	 |
