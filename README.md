@@ -9,7 +9,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |Week # |**Topic and Objectives**
 |:--|:-----------------------------------------------
 |**1** |**Intro & Getting Started**
-|	 |Course Overview (relevance, examples, etc.):
+|	 |*Course Overview (relevance, examples, etc.):*
 |	 |&nbsp; •	Market-Ready-to-do List (MRTDL) by Career Advancement Center
 |	 |&nbsp; •	Pick a dataset:
 |	 |  &emsp; * Datasets will be provided by instructor on first day of class.
@@ -22,7 +22,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |&nbsp; •	Assignment: Prepare 1-minute “describe your dataset” presentation
 |	 |
 |**2** |**Start with Presentations (present what was assigned in the previous class)**
-|	 |Understand the Business (and core business processes):
+|	 |*Understand the Business (and core business processes):*
 |	 |&nbsp; •	Activity (for a specific case or example business): 
 |	 |  &emsp; * Describe the business for an example business (inputs, activities, outputs/metrics). 
 |	 |  &emsp; * Develop a simple flowchart, identify opportunities
@@ -32,7 +32,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |  &emsp; core business process(es), and opportunities for your selected business
 |	 |
 |**3** |**Start with Presentations (present what was assigned in the previous class)**
-|	 |Identify a Business Problem (and why it needs to be addressed):
+|	 |*Identify a Business Problem (and why it needs to be addressed):*
 |	 |&nbsp; •	Activity (for a specific case or example business problem): 
 |	 |  &emsp; * Developing persuasive arguments; Create tension with a visualization (draft)
 |	 |&nbsp; •	Instruction: Story telling with data - visualizations
@@ -40,7 +40,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |  &emsp; * Create a 3-minute “tension” presentation; only 1 visual
 |	 |
 |**4** |**Start with Presentations (present what was assigned in the previous class)**
-|  |Develop a Solution Pitch (for solving the identified business problem):
+|  |*Develop a Solution Pitch (for solving the identified business problem):*
 |  |&nbsp; •	Activity (for an example business problem): 
 |	 |  &emsp; * Big idea, exec summary, peer review
 |  |&nbsp; •	Instruction: Feasibility study, selection of final use case (big idea)
@@ -48,7 +48,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |  &emsp; * Create a 1-minute pitch (includes business overview, tension, and solution)
 |	 |
 |**5** |**Start with Presentations (present what was assigned in the previous class)**
-|	 |Provide a Progress Update (for an ongoing project):
+|	 |*Provide a Progress Update (for an ongoing project):*
 |	 |&nbsp; •	Activity (for your selected solution): 
 |	 |  &emsp; * Strong visualizations, exploration, status, revisions, issues, lessons learned
 |	 |&nbsp; •	Instruction: Data exploration and feedback loops with business stakeholders 
@@ -56,7 +56,7 @@ The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, 
 |	 |  &emsp; * Prepare a 5-minute presentation; 5 slides (excluding title slide); 3 visualizations
 |	 |
 |**6** |**Start with Presentations (present what was assigned in the previous class)**
-|	 |Planning a Final Presentation and Final Report (for a completed project):
+|	 |*Planning a Final Presentation and Final Report (for a completed project):*
 |	 |&nbsp; •	Activity (for your project): 
 |	 |  &emsp; * 1st draft of headlines only and main messages per slide; 
 |	 |  &emsp; * Python Notebook for technical audience and Word document for leadership: 
