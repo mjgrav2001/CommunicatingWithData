@@ -1,0 +1,24 @@
+
+Datasets with descriptions:
+
+7. Flywise:
+
+Dataset:
+Airline Delay and Cancellation Data, 2009 - 2018
+
+Focus on 2018 data:
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download&select=2018.csv
+
+The Dataset we have used is the “Airlines Delay” data from www.kaggle.com/datasets1, which was actually provided by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS), that tracks the on-time performance of domestic flights operated by large air carriers. It contains Summary of the information on the number of on-time, delayed, canceled and diverted flights. We initially intend to use the whole dataset covering 10 years to build our model, however, due to our limited computation resources, we had to cut the dataset of the latest dataset of the year 2018. In the dataset, more than 7 million rows included, and 27 variables involved.
+
+Full dataset see: 
+https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
+
+Motivation:
+- Airline delays can have a significant impact on both customer satisfaction and operational efficiency.
+- Booking agents can leverage airline delay and cancellation data to enhance their services and provide added value to customers. 
+- Goal is to improve customer service, operational efficiency, and revenue generation.
+
+Questions:
+- Leverage historical airline delay data to make informed decisions, improve on-time performance, and enhance customer experiences.
+- Demonstrate how an airline can use a dataset of airline delay information to optimize its flight operations.

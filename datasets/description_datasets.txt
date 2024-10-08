@@ -1,0 +1,203 @@
+
+Datasets with descriptions:
+
+1. Current Invasive Plants (Feature Layer):
+
+Dataset:
+https://data-usfs.hub.arcgis.com/datasets/cfa7600b5e81444c83adb26f798fb7f2_0/explore?location=14.456839%2C-75.929322%2C3.94&showTable=true
+
+Information:
+https://data-usfs.hub.arcgis.com/datasets/usfs::current-invasive-plants-feature-layer/about
+
+Summary
+The Current Invasive Plants (InvasivePlantCurrent) feature class contains only the most recent or latest invasive Plant Infestation polygons collected by the National Invasive Plant Inventory Protocol. Includes most recent and excludes historic observations. Includes Site ID, Plant code, status etc. for the infesting species, date, area and other basic data.
+
+Motivation:
+- Categorize invasive plants
+- Prioritize treatments
+- Reduce the negative impact on the environment and economy
+
+Questions:
+- What are the factors that influence treatment priority of invasive plants?
+- How do specific invasive plant species relate to their assigned treatment priorities?
+
+
+
+2. Last Stop Marketing Strategy - Covid 19 deaths:
+
+US Dept of Health datasets:
+https://catalog.data.gov/
+
+Source:
+https://catalog.data.gov/dataset/?q=Counts_of_Deaths_by_Select_Causes&sort=views_recent+desc&tags=deaths&ext_location=&ext_bbox=&ext_prev_extent=
+
+Datasets:
+- Monthly Counts of Deaths by Select Causes, 2014-2019 
+- Monthly Provisional Counts of Deaths by Select Causes, 2020-2023
+
+Extra datasets:
+- Provisional COVID-19 Death Counts by Age in Years, 2020-2023
+- Provisional COVID-19 Death Counts in the United States by County
+- Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2023 
+- Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2023 
+- Provisional Death Counts for Coronavirus Disease (COVID-19)
+- Weekly Counts of Deaths by State and Select Causes, 2014-2019
+
+Motivation:
+- Funeral home operators
+- Comprehensive end-of-life services, encompassing financial, legal, logistical, and emotional support
+- Tailor marketing strategy based on insights into prevalent causes of death and related trends
+
+Questions:
+- With regards to the U.S. population, which chronic illnesses should we target based on their impact and trend?
+- Should we adjust our marketing plan to account for seasonality?
+- Due to COVID-19, were there any significant shifts in death trends regarding the selected chronic illnesses?
+
+Assumptions:
+- Chronic illnesses vary in their impact and trend within the U.S.population.
+- Seasonal variations might influence the effectiveness of the marketing plan.
+
+
+
+3. Welfare Client:
+
+Dataset derived from a homeless shelter welfare program
+Homeless.csv (downloaded from former student team)
+
+Motivation:
+- Aid programs for the homeless in optimizing their budget 
+- Estimate the nights of stay for a person in a homeless shelter
+
+Questions:
+- In-depth look into the comprehensive dataset derived from a homeless shelter welfare program
+- Understand the varied demographics of individuals who stayed in the shelter
+- Decipher underlying patterns and potential correlations among the varied data attributes
+
+
+
+4. Water Potability of Plants:
+
+Dataset (downloaded from former student team):
+water_potability_data.csv 
+
+Source:
+https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
+Motivation:
+- Company VFYM has undertaken a comprehensive case study of over 3000 water samples sourced from the Area Z. 
+- This study aims to ascertain the necessity of the proposed filtration system.
+- It shall identify the specific contaminants and impurities that need to be effectively addressed.
+
+Questions:
+- Analyze and assess how different factors that contribute to water potability.
+
+
+
+5. Wine Quality:
+
+Dataset from UC Irvine:
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+Two .csv files downloaded from former student team.
+
+Additional datasets:
+Wine Quality Datasets
+http://www3.dsi.uminho.pt/pcortez/wine/
+
+
+Motivation:
+- The group is tasked with helping a winery in the north of Portugal improve the quality of their
+"Vinho Verde" varietal for both their red and white variants.
+- Two datasets are included related to red and white 'vinho verde' wine samples, from the north of Portugal.
+- The goal is to model wine quality based on physicochemical tests to recommend ways to maximize quality.
+
+Questions:
+- What are the different factors that influence red and white 'vinho verde' variants?
+- How can these factors be influenced to separately improve the quality of both variants?
+
+
+
+6. Los Angeles Expansion: Safety Concerns
+
+Dataset:
+LAPD Crime Data
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
+
+Downloaded from website:
+Crime_Data_from_2020_to_Present_20241004.csv
+
+Motivation:
+- A company is exploring the possibility of opening a new branch for its import/export business on the West Coast.
+- The expansion would be a great opportunity to continue building and expanding the relationship with business partners in Asia.
+- The goal is to find a prime warehousing location in the Los Angeles area, that has the lowest crime rate.
+- The company wants to ensure the safety of its employees and of the business. 
+
+Questions:
+- Analyze all types of local crime in Los Angeles from 2020 - 2023.
+- Determine what area would be the safest location.
+- Determine what safeguards will be needed to ensure everyone's safety.
+
+
+
+7. Flywise:
+
+Dataset:
+Airline Delay and Cancellation Data, 2009 - 2018
+
+Focus on 2018 data:
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download&select=2018.csv
+
+The Dataset we have used is the “Airlines Delay” data from www.kaggle.com/datasets1, which was actually provided by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS), that tracks the on-time performance of domestic flights operated by large air carriers. It contains Summary of the information on the number of on-time, delayed, canceled and diverted flights. We initially intend to use the whole dataset covering 10 years to build our model, however, due to our limited computation resources, we had to cut the dataset of the latest dataset of the year 2018. In the dataset, more than 7 million rows included, and 27 variables involved.
+
+Full dataset see: 
+https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
+
+Motivation:
+- Airline delays can have a significant impact on both customer satisfaction and operational efficiency.
+- Booking agents can leverage airline delay and cancellation data to enhance their services and provide added value to customers. 
+- Goal is to improve customer service, operational efficiency, and revenue generation.
+
+Questions:
+- Leverage historical airline delay data to make informed decisions, improve on-time performance, and enhance customer experiences.
+- Demonstrate how an airline can use a dataset of airline delay information to optimize its flight operations.
+
+
+
+11. Electric Vehicle Population Data
+Metadata Updated: September 20, 2024
+
+Dataset:
+https://catalog.data.gov/dataset/electric-vehicle-population-data
+
+This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
+
+Motivation:
+Assess how the State of Washington can adjust its incentive structure to boost electric cars in specific counties.
+
+Questions:
+Analyze the distribution of electric vehicle types across State of Washington counties.
+
+
+
+12. Air Quality of City of New York
+
+Dataset:
+https://catalog.data.gov/dataset/air-quality
+
+Environment and Health Data Portal: 
+http://nyc.gov/health/environmentdata
+
+Motivation:
+- Air pollution is one of the most important environmental threats to urban populations.
+- Pollutant emissions, levels of exposure, and population vulnerability vary across neighborhoods. 
+- Exposures to common air pollutants have been linked to respiratory and cardiovascular diseases, cancers, and premature deaths. 
+- These indicators provide a perspective across time and NYC geographies to better characterize air quality and health in NYC. 
+
+Questions:
+- Analyze the different types of air quality issues across NYC districts and across seasons
+- Are there any correlations of different air quality issues across districts and seasons?
+
+
+
+
+

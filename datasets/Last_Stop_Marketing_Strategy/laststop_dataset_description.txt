@@ -1,0 +1,37 @@
+
+Datasets with descriptions:
+
+2. Last Stop Marketing Strategy - Covid 19 deaths:
+
+US Dept of Health datasets:
+https://catalog.data.gov/
+
+Source:
+https://catalog.data.gov/dataset/?q=Counts_of_Deaths_by_Select_Causes&sort=views_recent+desc&tags=deaths&ext_location=&ext_bbox=&ext_prev_extent=
+
+Datasets:
+- Monthly Counts of Deaths by Select Causes, 2014-2019 
+- Monthly Provisional Counts of Deaths by Select Causes, 2020-2023
+
+Extra datasets:
+- Provisional COVID-19 Death Counts by Age in Years, 2020-2023
+- Provisional COVID-19 Death Counts in the United States by County
+- Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2023 
+- Weekly Provisional Counts of Deaths by State and Select Causes, 2020-2023 
+- Provisional Death Counts for Coronavirus Disease (COVID-19)
+- Weekly Counts of Deaths by State and Select Causes, 2014-2019
+
+Motivation:
+- Funeral home operators
+- Comprehensive end-of-life services, encompassing financial, legal, logistical, and emotional support
+- Tailor marketing strategy based on insights into prevalent causes of death and related trends
+
+Questions:
+- With regards to the U.S. population, which chronic illnesses should we target based on their impact and trend?
+- Should we adjust our marketing plan to account for seasonality?
+- Due to COVID-19, were there any significant shifts in death trends regarding the selected chronic illnesses?
+
+Assumptions:
+- Chronic illnesses vary in their impact and trend within the U.S.population.
+- Seasonal variations might influence the effectiveness of the marketing plan.
+

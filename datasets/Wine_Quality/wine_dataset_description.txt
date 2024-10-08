@@ -1,0 +1,24 @@
+
+Datasets with descriptions:
+
+5. Wine Quality:
+
+Dataset from UC Irvine:
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+Two .csv files downloaded from former student team.
+
+Additional datasets:
+Wine Quality Datasets
+http://www3.dsi.uminho.pt/pcortez/wine/
+
+
+Motivation:
+- The group is tasked with helping a winery in the north of Portugal improve the quality of their
+"Vinho Verde" varietal for both their red and white variants.
+- Two datasets are included related to red and white 'vinho verde' wine samples, from the north of Portugal.
+- The goal is to model wine quality based on physicochemical tests to recommend ways to maximize quality.
+
+Questions:
+- What are the different factors that influence red and white 'vinho verde' variants?
+- How can these factors be influenced to separately improve the quality of both variants?

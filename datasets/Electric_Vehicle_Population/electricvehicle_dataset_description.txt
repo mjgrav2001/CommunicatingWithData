@@ -1,0 +1,18 @@
+
+Datasets with descriptions:
+
+11. Electric Vehicle Population Data
+
+Metadata Updated: September 20, 2024
+
+Dataset:
+https://catalog.data.gov/dataset/electric-vehicle-population-data
+
+This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
+
+Motivation:
+Assess how the State of Washington can adjust its incentive structure to boost electric cars in specific counties.
+
+Questions:
+Analyze the distribution of electric vehicle types across State of Washington counties.
+

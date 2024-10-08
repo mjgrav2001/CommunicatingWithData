@@ -1,0 +1,18 @@
+
+Datasets with descriptions:
+
+4. Water Potability of Plants:
+
+Dataset (downloaded from former student team):
+water_potability_data.csv 
+
+Source:
+https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
+Motivation:
+- Company VFYM has undertaken a comprehensive case study of over 3000 water samples sourced from the Area Z. 
+- This study aims to ascertain the necessity of the proposed filtration system.
+- It shall identify the specific contaminants and impurities that need to be effectively addressed.
+
+Questions:
+- Analyze and assess how different factors that contribute to water potability.

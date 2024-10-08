@@ -1,0 +1,22 @@
+
+Datasets with descriptions:
+
+6. Los Angeles Expansion: Safety Concerns
+
+Dataset:
+LAPD Crime Data
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
+
+Downloaded from website:
+Crime_Data_from_2020_to_Present_20241004.csv
+
+Motivation:
+- A company is exploring the possibility of opening a new branch for its import/export business on the West Coast.
+- The expansion would be a great opportunity to continue building and expanding the relationship with business partners in Asia.
+- The goal is to find a prime warehousing location in the Los Angeles area, that has the lowest crime rate.
+- The company wants to ensure the safety of its employees and of the business. 
+
+Questions:
+- Analyze all types of local crime in Los Angeles from 2020 - 2023.
+- Determine what area would be the safest location.
+- Determine what safeguards will be needed to ensure everyone's safety.

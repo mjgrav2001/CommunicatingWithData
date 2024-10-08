@@ -1,0 +1,25 @@
+
+Datasets with descriptions:
+
+12. Air Quality of City of New York
+
+Dataset:
+https://catalog.data.gov/dataset/air-quality
+
+Environment and Health Data Portal: 
+http://nyc.gov/health/environmentdata
+
+Motivation:
+- Air pollution is one of the most important environmental threats to urban populations.
+- Pollutant emissions, levels of exposure, and population vulnerability vary across neighborhoods. 
+- Exposures to common air pollutants have been linked to respiratory and cardiovascular diseases, cancers, and premature deaths. 
+- These indicators provide a perspective across time and NYC geographies to better characterize air quality and health in NYC. 
+
+Questions:
+- Analyze the different types of air quality issues across NYC districts and across seasons
+- Are there any correlations of different air quality issues across districts and seasons?
+
+
+
+
+
