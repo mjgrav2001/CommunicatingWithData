@@ -4,9 +4,9 @@ Data and code repository for GSU Course MSA 8030 'Communicating with Data'
 This material has been collected and developed for the course MSA 8030 in the [Master of Science in Analytics](https://robinson.gsu.edu/program/data-science-and-analytics-ms/) at the [J. Mack Robinson College of Business](http://robinson.gsu.edu) at [Georgia State University](http://gsu.edu).
 
 ## Topics and Schedule
-The schedule below applies to Fall 2024. Please, refer to this page for any changes.
+The weekly schedule below applies to Fall 2024 (Minimester 2, 7 weeks). Please, refer to this page for any changes.
 
-|# |**Topic and Objectives**
+|Week # |**Topic and Objectives**
 |:--|:-----------------------------------------------
 |**1** |**Intro & Getting Started**
 |	 |Course Overview (relevance, examples, etc.):
@@ -67,7 +67,7 @@ The schedule below applies to Fall 2024. Please, refer to this page for any chan
 |	 |  &nbsp; * Complete final presentation and reports; 
 |	 |  &nbsp; * 7-minute presentation; 5-7 slides (excluding title slide); appendix if required
 |	 |
-|**7** |**Final Presentations (and final reports, notebook and Word document) are due**
+|**7** |**Final Presentations (and final reports, notebook and Word document) are due !**
 |	 |
 
 
