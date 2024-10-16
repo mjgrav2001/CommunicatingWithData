@@ -1,0 +1,34 @@
+
+Dataset with descriptions:
+
+U.S. Airbnb Open Data:
+
+Dataset:
+https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data
+
+Context
+Since its inception in 2008, Airbnb has disrupted the traditional hospitality industry as more travellers decide to use Airbnb as their primary means of accommodation. Airbnb offers travellers a more unique and personalized way of accommodation and experience.
+
+Project
+I had compiled this dataset for a project of mine on 20th October 2020. The project can be seen here- wherebnb.
+
+Dataset was recompiled and updated in the same format on 14th April 2023
+
+Content
+This dataset has one file- AB_US_2023.csv which has columns describing features such as host id, hostname, listing id, listing name, latitude and longitude of listing, the neighbourhood, price, room type, minimum number of nights, number of reviews, last review date, reviews per month, availability, host listings and city.
+
+
+Acknowledgements
+This dataset is a compilation of multiple datasets found on Inside Airbnb.
+
+Inspiration
+- Can we predict the price of each house in different regions?
+- Can we describe a region using the names of listings in that region?
+- What can we learn about different regions from the data?
+- Based on different factors is it possible to recommend a title to the host for his/her listing?
+- Can we estimate the popularity of a listing based on given features?
+
+Student Team Ideas:
+- Our project will focus on conducting an exploratory data analysis (EDA) of Airbnb listings from 2020 to 2023, with an emphasis on analyzing trends in listing prices, reviews, and availability across top-performing neighborhoods. 
+- We plan to perform descriptive and correlation analyses to uncover key patterns and relationships between features such as location, property details, host information, and review metrics.
+- We will create visualizations to present these insights, which will be useful for hosts optimizing pricing strategies and guests looking for budget-friendly accommodations. This EDA will also serve as the foundation for the predictive model we're working on in our Data Programming course.
