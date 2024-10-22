@@ -1,0 +1,15 @@
+
+Dataset with descriptions:
+
+Fossil
+
+Dataset:
+...
+
+
+Dataset Description
+
+Fossil (fossil.com) is a leading global fashion designer and manufacturer, known for its watches, handbags, and other accessories. As a retailer oJering a wide range of products, understanding sales trends and patterns is crucial for optimizing production and inventory management. To support these eJorts, conducting thorough exploratory data analysis (EDA) and visualization helps uncover key insights from historical data. By analyzing seasonal patterns, product performance, and sales variability, Fossil can better manage operations and improve decision-making months in advance.
+About the dataset:
+The data provided contains the number of items sold of each item (or SKU) each month. The dataset also provides some details as to the number of items sold through each major channel. Channels are Fossil’s customers. A channel can be an online retailer, an in- person retail chain store, etc. There are other minor channels that are not represented in the dataset as a channel, but the total sales represent all sales across the major channels as well as smaller channels.
+The data provided also contains inventory data such as the beginning of period (BOP), or starting, inventory (inventory present at the beginning of the month) and on-hand, or customer side inventory (inventory available through customers or channels)
